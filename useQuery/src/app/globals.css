@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+nav {
+  @apply bg-gray-800 text-white p-4;
+}
+
